@@ -61,3 +61,451 @@
 [2021-11-16 11:19:05,248] {logging_mixin.py:109} INFO - [2021-11-16 11:19:05,248] {dag.py:2396} INFO - Sync 1 DAGs
 [2021-11-16 11:19:05,260] {logging_mixin.py:109} INFO - [2021-11-16 11:19:05,260] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
 [2021-11-16 11:19:05,389] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.401 seconds
+[2021-11-16 11:30:23,208] {processor.py:163} INFO - Started process (PID=10661) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:30:23,224] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:30:23,225] {logging_mixin.py:109} INFO - [2021-11-16 11:30:23,225] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:30:23,259] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:30:23,494] {logging_mixin.py:109} INFO - [2021-11-16 11:30:23,494] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:30:23,508] {logging_mixin.py:109} INFO - [2021-11-16 11:30:23,508] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:30:23,597] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.391 seconds
+[2021-11-16 11:31:08,125] {processor.py:163} INFO - Started process (PID=10708) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:31:08,127] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:31:08,127] {logging_mixin.py:109} INFO - [2021-11-16 11:31:08,127] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:31:08,165] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:31:08,387] {logging_mixin.py:109} INFO - [2021-11-16 11:31:08,387] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:31:08,400] {logging_mixin.py:109} INFO - [2021-11-16 11:31:08,400] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:31:08,476] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.355 seconds
+[2021-11-16 11:31:51,345] {processor.py:163} INFO - Started process (PID=10784) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:31:51,347] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:31:51,348] {logging_mixin.py:109} INFO - [2021-11-16 11:31:51,347] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:31:51,376] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:31:51,621] {logging_mixin.py:109} INFO - [2021-11-16 11:31:51,621] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:31:51,634] {logging_mixin.py:109} INFO - [2021-11-16 11:31:51,634] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:31:51,744] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.404 seconds
+[2021-11-16 11:32:32,726] {processor.py:163} INFO - Started process (PID=10841) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:32:32,727] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:32:32,728] {logging_mixin.py:109} INFO - [2021-11-16 11:32:32,728] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:32:32,757] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:32:32,978] {logging_mixin.py:109} INFO - [2021-11-16 11:32:32,978] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:32:32,991] {logging_mixin.py:109} INFO - [2021-11-16 11:32:32,990] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:32:33,091] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.368 seconds
+[2021-11-16 11:33:16,255] {processor.py:163} INFO - Started process (PID=10892) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:33:16,267] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:33:16,268] {logging_mixin.py:109} INFO - [2021-11-16 11:33:16,268] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:33:16,306] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:33:16,546] {logging_mixin.py:109} INFO - [2021-11-16 11:33:16,546] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:33:16,559] {logging_mixin.py:109} INFO - [2021-11-16 11:33:16,559] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:33:16,623] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.372 seconds
+[2021-11-16 11:33:58,204] {processor.py:163} INFO - Started process (PID=10930) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:33:58,206] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:33:58,207] {logging_mixin.py:109} INFO - [2021-11-16 11:33:58,206] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:33:58,236] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:33:58,466] {logging_mixin.py:109} INFO - [2021-11-16 11:33:58,465] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:33:58,478] {logging_mixin.py:109} INFO - [2021-11-16 11:33:58,478] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:33:58,596] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.394 seconds
+[2021-11-16 11:34:44,302] {processor.py:163} INFO - Started process (PID=10980) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:34:44,318] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:34:44,319] {logging_mixin.py:109} INFO - [2021-11-16 11:34:44,319] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:34:44,348] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:34:44,569] {logging_mixin.py:109} INFO - [2021-11-16 11:34:44,569] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:34:44,582] {logging_mixin.py:109} INFO - [2021-11-16 11:34:44,582] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:34:44,666] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.367 seconds
+[2021-11-16 11:35:21,092] {processor.py:163} INFO - Started process (PID=11032) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:35:21,094] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:35:21,095] {logging_mixin.py:109} INFO - [2021-11-16 11:35:21,095] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:35:21,127] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:35:21,351] {logging_mixin.py:109} INFO - [2021-11-16 11:35:21,351] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:35:21,365] {logging_mixin.py:109} INFO - [2021-11-16 11:35:21,365] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:35:21,439] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.349 seconds
+[2021-11-16 11:36:07,947] {processor.py:163} INFO - Started process (PID=11074) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:36:07,948] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:36:07,949] {logging_mixin.py:109} INFO - [2021-11-16 11:36:07,949] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:36:07,978] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:36:08,205] {logging_mixin.py:109} INFO - [2021-11-16 11:36:08,205] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:36:08,217] {logging_mixin.py:109} INFO - [2021-11-16 11:36:08,217] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:36:08,311] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.369 seconds
+[2021-11-16 11:36:45,346] {processor.py:163} INFO - Started process (PID=11115) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:36:45,348] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:36:45,348] {logging_mixin.py:109} INFO - [2021-11-16 11:36:45,348] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:36:45,377] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:36:45,594] {logging_mixin.py:109} INFO - [2021-11-16 11:36:45,594] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:36:45,606] {logging_mixin.py:109} INFO - [2021-11-16 11:36:45,606] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:36:45,677] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.333 seconds
+[2021-11-16 11:37:28,813] {processor.py:163} INFO - Started process (PID=11162) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:37:28,823] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:37:28,823] {logging_mixin.py:109} INFO - [2021-11-16 11:37:28,823] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:37:28,852] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:37:29,080] {logging_mixin.py:109} INFO - [2021-11-16 11:37:29,080] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:37:29,093] {logging_mixin.py:109} INFO - [2021-11-16 11:37:29,093] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:37:29,176] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.366 seconds
+[2021-11-16 11:38:12,439] {processor.py:163} INFO - Started process (PID=11228) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:38:12,440] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:38:12,441] {logging_mixin.py:109} INFO - [2021-11-16 11:38:12,441] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:38:12,470] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:38:12,706] {logging_mixin.py:109} INFO - [2021-11-16 11:38:12,706] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:38:12,718] {logging_mixin.py:109} INFO - [2021-11-16 11:38:12,718] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:38:12,798] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.364 seconds
+[2021-11-16 11:39:00,561] {processor.py:163} INFO - Started process (PID=11308) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:39:00,583] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:39:00,585] {logging_mixin.py:109} INFO - [2021-11-16 11:39:00,585] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:39:00,643] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:39:01,065] {logging_mixin.py:109} INFO - [2021-11-16 11:39:01,065] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:39:01,087] {logging_mixin.py:109} INFO - [2021-11-16 11:39:01,087] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:39:01,304] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.748 seconds
+[2021-11-16 11:39:49,198] {processor.py:163} INFO - Started process (PID=11405) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:39:49,200] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:39:49,201] {logging_mixin.py:109} INFO - [2021-11-16 11:39:49,201] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:39:49,234] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:39:49,447] {logging_mixin.py:109} INFO - [2021-11-16 11:39:49,447] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:39:49,461] {logging_mixin.py:109} INFO - [2021-11-16 11:39:49,461] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:39:49,562] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.369 seconds
+[2021-11-16 11:40:31,921] {processor.py:163} INFO - Started process (PID=11499) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:40:31,923] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:40:31,923] {logging_mixin.py:109} INFO - [2021-11-16 11:40:31,923] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:40:31,952] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:40:32,192] {logging_mixin.py:109} INFO - [2021-11-16 11:40:32,192] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:40:32,206] {logging_mixin.py:109} INFO - [2021-11-16 11:40:32,206] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:40:32,303] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.384 seconds
+[2021-11-16 11:41:18,471] {processor.py:163} INFO - Started process (PID=11601) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:41:18,484] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:41:18,485] {logging_mixin.py:109} INFO - [2021-11-16 11:41:18,485] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:41:18,516] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:41:18,759] {logging_mixin.py:109} INFO - [2021-11-16 11:41:18,759] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:41:18,774] {logging_mixin.py:109} INFO - [2021-11-16 11:41:18,774] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:41:18,876] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.408 seconds
+[2021-11-16 11:41:59,350] {processor.py:163} INFO - Started process (PID=11691) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:41:59,352] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:41:59,353] {logging_mixin.py:109} INFO - [2021-11-16 11:41:59,353] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:41:59,382] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:41:59,607] {logging_mixin.py:109} INFO - [2021-11-16 11:41:59,607] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:41:59,623] {logging_mixin.py:109} INFO - [2021-11-16 11:41:59,623] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:41:59,703] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.357 seconds
+[2021-11-16 11:42:45,928] {processor.py:163} INFO - Started process (PID=11808) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:42:45,929] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:42:45,930] {logging_mixin.py:109} INFO - [2021-11-16 11:42:45,930] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:42:45,960] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:42:46,248] {logging_mixin.py:109} INFO - [2021-11-16 11:42:46,248] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:42:46,266] {logging_mixin.py:109} INFO - [2021-11-16 11:42:46,266] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:42:46,348] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.424 seconds
+[2021-11-16 11:43:42,752] {processor.py:163} INFO - Started process (PID=11901) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:43:42,753] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:43:42,754] {logging_mixin.py:109} INFO - [2021-11-16 11:43:42,754] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:43:42,783] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:43:43,014] {logging_mixin.py:109} INFO - [2021-11-16 11:43:43,014] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:43:43,029] {logging_mixin.py:109} INFO - [2021-11-16 11:43:43,028] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:43:43,130] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.382 seconds
+[2021-11-16 11:44:24,199] {processor.py:163} INFO - Started process (PID=11943) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:44:24,201] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:44:24,201] {logging_mixin.py:109} INFO - [2021-11-16 11:44:24,201] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:44:24,231] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:44:24,452] {logging_mixin.py:109} INFO - [2021-11-16 11:44:24,452] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:44:24,465] {logging_mixin.py:109} INFO - [2021-11-16 11:44:24,465] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:44:24,552] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.357 seconds
+[2021-11-16 11:45:01,546] {processor.py:163} INFO - Started process (PID=12035) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:45:01,548] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:45:01,548] {logging_mixin.py:109} INFO - [2021-11-16 11:45:01,548] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:45:01,583] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:45:01,814] {logging_mixin.py:109} INFO - [2021-11-16 11:45:01,814] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:45:01,827] {logging_mixin.py:109} INFO - [2021-11-16 11:45:01,827] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:45:01,936] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.394 seconds
+[2021-11-16 11:45:52,020] {processor.py:163} INFO - Started process (PID=12108) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:45:52,022] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:45:52,023] {logging_mixin.py:109} INFO - [2021-11-16 11:45:52,023] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:45:52,065] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:45:52,325] {logging_mixin.py:109} INFO - [2021-11-16 11:45:52,325] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:45:52,339] {logging_mixin.py:109} INFO - [2021-11-16 11:45:52,339] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:45:52,425] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.409 seconds
+[2021-11-16 11:46:35,132] {processor.py:163} INFO - Started process (PID=12150) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:46:35,143] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:46:35,144] {logging_mixin.py:109} INFO - [2021-11-16 11:46:35,143] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:46:35,177] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:46:35,396] {logging_mixin.py:109} INFO - [2021-11-16 11:46:35,396] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:46:35,410] {logging_mixin.py:109} INFO - [2021-11-16 11:46:35,410] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:46:35,505] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.376 seconds
+[2021-11-16 11:47:10,385] {processor.py:163} INFO - Started process (PID=12193) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:47:10,387] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:47:10,388] {logging_mixin.py:109} INFO - [2021-11-16 11:47:10,388] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:47:10,427] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:47:10,695] {logging_mixin.py:109} INFO - [2021-11-16 11:47:10,695] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:47:10,707] {logging_mixin.py:109} INFO - [2021-11-16 11:47:10,707] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:47:10,820] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.439 seconds
+[2021-11-16 11:47:56,561] {processor.py:163} INFO - Started process (PID=12287) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:47:56,563] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:47:56,564] {logging_mixin.py:109} INFO - [2021-11-16 11:47:56,564] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:47:56,605] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:47:56,835] {logging_mixin.py:109} INFO - [2021-11-16 11:47:56,835] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:47:56,849] {logging_mixin.py:109} INFO - [2021-11-16 11:47:56,849] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:47:56,965] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.407 seconds
+[2021-11-16 11:48:41,215] {processor.py:163} INFO - Started process (PID=12343) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:48:41,221] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:48:41,221] {logging_mixin.py:109} INFO - [2021-11-16 11:48:41,221] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:48:41,251] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:48:41,503] {logging_mixin.py:109} INFO - [2021-11-16 11:48:41,503] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:48:41,518] {logging_mixin.py:109} INFO - [2021-11-16 11:48:41,518] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:48:41,623] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.411 seconds
+[2021-11-16 11:49:24,431] {processor.py:163} INFO - Started process (PID=12436) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:49:24,433] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:49:24,434] {logging_mixin.py:109} INFO - [2021-11-16 11:49:24,434] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:49:24,469] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:49:24,743] {logging_mixin.py:109} INFO - [2021-11-16 11:49:24,742] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:49:24,761] {logging_mixin.py:109} INFO - [2021-11-16 11:49:24,761] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:49:24,901] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.474 seconds
+[2021-11-16 11:50:04,401] {processor.py:163} INFO - Started process (PID=12526) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:50:04,403] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:50:04,404] {logging_mixin.py:109} INFO - [2021-11-16 11:50:04,404] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:50:04,438] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:50:04,692] {logging_mixin.py:109} INFO - [2021-11-16 11:50:04,692] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:50:04,706] {logging_mixin.py:109} INFO - [2021-11-16 11:50:04,706] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:50:04,783] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.385 seconds
+[2021-11-16 11:51:01,248] {processor.py:163} INFO - Started process (PID=12661) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:51:01,250] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:51:01,251] {logging_mixin.py:109} INFO - [2021-11-16 11:51:01,251] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:51:01,284] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:51:01,542] {logging_mixin.py:109} INFO - [2021-11-16 11:51:01,542] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:51:01,554] {logging_mixin.py:109} INFO - [2021-11-16 11:51:01,553] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:51:01,657] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.411 seconds
+[2021-11-16 11:51:46,309] {processor.py:163} INFO - Started process (PID=12775) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:51:46,310] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:51:46,311] {logging_mixin.py:109} INFO - [2021-11-16 11:51:46,311] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:51:46,341] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:51:46,624] {logging_mixin.py:109} INFO - [2021-11-16 11:51:46,623] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:51:46,640] {logging_mixin.py:109} INFO - [2021-11-16 11:51:46,640] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:51:46,733] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.428 seconds
+[2021-11-16 11:52:23,844] {processor.py:163} INFO - Started process (PID=12864) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:52:23,846] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:52:23,847] {logging_mixin.py:109} INFO - [2021-11-16 11:52:23,847] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:52:23,881] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:52:24,124] {logging_mixin.py:109} INFO - [2021-11-16 11:52:24,124] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:52:24,138] {logging_mixin.py:109} INFO - [2021-11-16 11:52:24,138] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:52:24,212] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.371 seconds
+[2021-11-16 11:53:02,417] {processor.py:163} INFO - Started process (PID=12969) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:53:02,419] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:53:02,420] {logging_mixin.py:109} INFO - [2021-11-16 11:53:02,420] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:53:02,458] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:53:02,740] {logging_mixin.py:109} INFO - [2021-11-16 11:53:02,740] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:53:02,754] {logging_mixin.py:109} INFO - [2021-11-16 11:53:02,753] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:53:02,860] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.445 seconds
+[2021-11-16 11:53:41,333] {processor.py:163} INFO - Started process (PID=13069) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:53:41,334] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:53:41,335] {logging_mixin.py:109} INFO - [2021-11-16 11:53:41,335] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:53:41,370] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:53:41,635] {logging_mixin.py:109} INFO - [2021-11-16 11:53:41,634] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:53:41,651] {logging_mixin.py:109} INFO - [2021-11-16 11:53:41,651] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:53:41,732] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.404 seconds
+[2021-11-16 11:54:21,574] {processor.py:163} INFO - Started process (PID=13172) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:54:21,576] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:54:21,577] {logging_mixin.py:109} INFO - [2021-11-16 11:54:21,577] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:54:21,617] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:54:21,859] {logging_mixin.py:109} INFO - [2021-11-16 11:54:21,859] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:54:21,872] {logging_mixin.py:109} INFO - [2021-11-16 11:54:21,872] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:54:21,949] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.377 seconds
+[2021-11-16 11:55:04,632] {processor.py:163} INFO - Started process (PID=13235) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:55:04,634] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:55:04,634] {logging_mixin.py:109} INFO - [2021-11-16 11:55:04,634] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:55:04,662] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:55:04,887] {logging_mixin.py:109} INFO - [2021-11-16 11:55:04,887] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:55:04,900] {logging_mixin.py:109} INFO - [2021-11-16 11:55:04,900] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:55:05,008] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.379 seconds
+[2021-11-16 11:55:52,244] {processor.py:163} INFO - Started process (PID=13344) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:55:52,257] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:55:52,258] {logging_mixin.py:109} INFO - [2021-11-16 11:55:52,258] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:55:52,295] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:55:52,537] {logging_mixin.py:109} INFO - [2021-11-16 11:55:52,537] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:55:52,553] {logging_mixin.py:109} INFO - [2021-11-16 11:55:52,552] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:55:52,658] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.420 seconds
+[2021-11-16 11:57:01,654] {processor.py:163} INFO - Started process (PID=13541) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:57:01,665] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:57:01,666] {logging_mixin.py:109} INFO - [2021-11-16 11:57:01,666] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:57:01,700] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:57:01,947] {logging_mixin.py:109} INFO - [2021-11-16 11:57:01,947] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:57:02,029] {logging_mixin.py:109} INFO - [2021-11-16 11:57:02,029] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:57:02,112] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.461 seconds
+[2021-11-16 11:58:21,204] {processor.py:163} INFO - Started process (PID=13721) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:58:21,206] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:58:21,206] {logging_mixin.py:109} INFO - [2021-11-16 11:58:21,206] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:58:21,239] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:58:21,509] {logging_mixin.py:109} INFO - [2021-11-16 11:58:21,509] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:58:21,594] {logging_mixin.py:109} INFO - [2021-11-16 11:58:21,594] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:58:21,685] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.484 seconds
+[2021-11-16 11:59:03,912] {processor.py:163} INFO - Started process (PID=13838) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:59:03,913] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:59:03,914] {logging_mixin.py:109} INFO - [2021-11-16 11:59:03,914] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:59:03,944] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:59:04,212] {logging_mixin.py:109} INFO - [2021-11-16 11:59:04,212] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:59:04,309] {logging_mixin.py:109} INFO - [2021-11-16 11:59:04,309] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:59:04,528] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.619 seconds
+[2021-11-16 11:59:56,291] {processor.py:163} INFO - Started process (PID=13912) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:59:56,292] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 11:59:56,293] {logging_mixin.py:109} INFO - [2021-11-16 11:59:56,293] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:59:56,321] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 11:59:56,625] {logging_mixin.py:109} INFO - [2021-11-16 11:59:56,624] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:59:56,637] {logging_mixin.py:109} INFO - [2021-11-16 11:59:56,637] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 11:59:56,699] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.412 seconds
+[2021-11-16 12:00:38,578] {processor.py:163} INFO - Started process (PID=14004) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:00:38,611] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:00:38,611] {logging_mixin.py:109} INFO - [2021-11-16 12:00:38,611] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:00:38,640] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:00:38,928] {logging_mixin.py:109} INFO - [2021-11-16 12:00:38,927] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:00:38,939] {logging_mixin.py:109} INFO - [2021-11-16 12:00:38,939] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:00:39,022] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.448 seconds
+[2021-11-16 12:01:24,527] {processor.py:163} INFO - Started process (PID=14067) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:01:24,530] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:01:24,531] {logging_mixin.py:109} INFO - [2021-11-16 12:01:24,530] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:01:24,560] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:01:24,866] {logging_mixin.py:109} INFO - [2021-11-16 12:01:24,866] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:01:24,878] {logging_mixin.py:109} INFO - [2021-11-16 12:01:24,878] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:01:24,956] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.434 seconds
+[2021-11-16 12:02:13,136] {processor.py:163} INFO - Started process (PID=14129) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:02:13,138] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:02:13,138] {logging_mixin.py:109} INFO - [2021-11-16 12:02:13,138] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:02:13,169] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:02:13,474] {logging_mixin.py:109} INFO - [2021-11-16 12:02:13,474] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:02:13,486] {logging_mixin.py:109} INFO - [2021-11-16 12:02:13,486] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:02:13,578] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.444 seconds
+[2021-11-16 12:03:52,493] {processor.py:163} INFO - Started process (PID=14333) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:03:52,495] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:03:52,496] {logging_mixin.py:109} INFO - [2021-11-16 12:03:52,496] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:03:52,527] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:03:52,844] {logging_mixin.py:109} INFO - [2021-11-16 12:03:52,844] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:03:52,861] {logging_mixin.py:109} INFO - [2021-11-16 12:03:52,861] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:03:52,947] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.458 seconds
+[2021-11-16 12:04:48,351] {processor.py:163} INFO - Started process (PID=14437) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:04:48,352] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:04:48,353] {logging_mixin.py:109} INFO - [2021-11-16 12:04:48,353] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:04:48,382] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:04:48,704] {logging_mixin.py:109} INFO - [2021-11-16 12:04:48,704] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:04:48,718] {logging_mixin.py:109} INFO - [2021-11-16 12:04:48,717] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:04:48,792] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.443 seconds
+[2021-11-16 12:05:28,804] {processor.py:163} INFO - Started process (PID=14539) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:05:28,806] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:05:28,807] {logging_mixin.py:109} INFO - [2021-11-16 12:05:28,807] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:05:28,842] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:05:29,153] {logging_mixin.py:109} INFO - [2021-11-16 12:05:29,153] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:05:29,167] {logging_mixin.py:109} INFO - [2021-11-16 12:05:29,167] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:05:29,268] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.466 seconds
+[2021-11-16 12:06:11,042] {processor.py:163} INFO - Started process (PID=14610) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:06:11,043] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:06:11,044] {logging_mixin.py:109} INFO - [2021-11-16 12:06:11,044] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:06:11,080] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:06:11,388] {logging_mixin.py:109} INFO - [2021-11-16 12:06:11,388] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:06:11,399] {logging_mixin.py:109} INFO - [2021-11-16 12:06:11,399] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:06:11,500] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.463 seconds
+[2021-11-16 12:06:54,628] {processor.py:163} INFO - Started process (PID=14698) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:06:54,630] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:06:54,630] {logging_mixin.py:109} INFO - [2021-11-16 12:06:54,630] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:06:54,659] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:06:54,995] {logging_mixin.py:109} INFO - [2021-11-16 12:06:54,995] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:06:55,008] {logging_mixin.py:109} INFO - [2021-11-16 12:06:55,008] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:06:55,073] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.448 seconds
+[2021-11-16 12:07:35,055] {processor.py:163} INFO - Started process (PID=14791) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:07:35,057] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:07:35,058] {logging_mixin.py:109} INFO - [2021-11-16 12:07:35,057] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:07:35,091] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:07:35,441] {logging_mixin.py:109} INFO - [2021-11-16 12:07:35,441] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:07:35,453] {logging_mixin.py:109} INFO - [2021-11-16 12:07:35,453] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:07:35,536] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.484 seconds
+[2021-11-16 12:08:34,272] {processor.py:163} INFO - Started process (PID=14890) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:08:34,273] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:08:34,274] {logging_mixin.py:109} INFO - [2021-11-16 12:08:34,274] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:08:34,305] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:08:34,589] {logging_mixin.py:109} INFO - [2021-11-16 12:08:34,589] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:08:34,600] {logging_mixin.py:109} INFO - [2021-11-16 12:08:34,600] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:08:34,670] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.402 seconds
+[2021-11-16 12:09:17,600] {processor.py:163} INFO - Started process (PID=14954) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:09:17,622] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:09:17,623] {logging_mixin.py:109} INFO - [2021-11-16 12:09:17,623] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:09:17,651] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:09:17,935] {logging_mixin.py:109} INFO - [2021-11-16 12:09:17,935] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:09:17,946] {logging_mixin.py:109} INFO - [2021-11-16 12:09:17,946] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:09:18,031] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.435 seconds
+[2021-11-16 12:09:56,203] {processor.py:163} INFO - Started process (PID=14994) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:09:56,205] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:09:56,205] {logging_mixin.py:109} INFO - [2021-11-16 12:09:56,205] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:09:56,242] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:09:56,518] {logging_mixin.py:109} INFO - [2021-11-16 12:09:56,518] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:09:56,530] {logging_mixin.py:109} INFO - [2021-11-16 12:09:56,530] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:09:56,611] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.413 seconds
+[2021-11-16 12:10:34,877] {processor.py:163} INFO - Started process (PID=15032) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:10:34,879] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:10:34,880] {logging_mixin.py:109} INFO - [2021-11-16 12:10:34,879] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:10:34,908] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:10:35,196] {logging_mixin.py:109} INFO - [2021-11-16 12:10:35,196] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:10:35,207] {logging_mixin.py:109} INFO - [2021-11-16 12:10:35,207] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:10:35,306] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.436 seconds
+[2021-11-16 12:11:22,980] {processor.py:163} INFO - Started process (PID=15722) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:11:22,981] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:11:22,982] {logging_mixin.py:109} INFO - [2021-11-16 12:11:22,982] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:11:23,016] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:11:23,313] {logging_mixin.py:109} INFO - [2021-11-16 12:11:23,313] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:11:23,328] {logging_mixin.py:109} INFO - [2021-11-16 12:11:23,328] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:11:23,431] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.454 seconds
+[2021-11-16 12:12:01,893] {processor.py:163} INFO - Started process (PID=15871) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:12:01,895] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:12:01,896] {logging_mixin.py:109} INFO - [2021-11-16 12:12:01,896] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:12:01,928] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:12:02,209] {logging_mixin.py:109} INFO - [2021-11-16 12:12:02,208] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:12:02,222] {logging_mixin.py:109} INFO - [2021-11-16 12:12:02,221] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:12:02,330] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.442 seconds
+[2021-11-16 12:12:49,386] {processor.py:163} INFO - Started process (PID=15921) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:12:49,396] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:12:49,398] {logging_mixin.py:109} INFO - [2021-11-16 12:12:49,398] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:12:49,427] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:12:49,721] {logging_mixin.py:109} INFO - [2021-11-16 12:12:49,721] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:12:49,734] {logging_mixin.py:109} INFO - [2021-11-16 12:12:49,734] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:12:49,843] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.459 seconds
+[2021-11-16 12:13:26,749] {processor.py:163} INFO - Started process (PID=15957) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:13:26,768] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:13:26,769] {logging_mixin.py:109} INFO - [2021-11-16 12:13:26,769] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:13:26,797] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:13:27,083] {logging_mixin.py:109} INFO - [2021-11-16 12:13:27,082] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:13:27,095] {logging_mixin.py:109} INFO - [2021-11-16 12:13:27,095] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:13:27,181] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.435 seconds
+[2021-11-16 12:14:06,843] {processor.py:163} INFO - Started process (PID=15995) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:14:06,844] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:14:06,845] {logging_mixin.py:109} INFO - [2021-11-16 12:14:06,845] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:14:06,874] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:14:07,143] {logging_mixin.py:109} INFO - [2021-11-16 12:14:07,143] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:14:07,157] {logging_mixin.py:109} INFO - [2021-11-16 12:14:07,156] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:14:07,238] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.400 seconds
+[2021-11-16 12:14:44,437] {processor.py:163} INFO - Started process (PID=16033) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:14:44,447] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:14:44,448] {logging_mixin.py:109} INFO - [2021-11-16 12:14:44,447] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:14:44,477] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:14:44,756] {logging_mixin.py:109} INFO - [2021-11-16 12:14:44,756] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:14:44,770] {logging_mixin.py:109} INFO - [2021-11-16 12:14:44,770] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:14:44,876] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.443 seconds
+[2021-11-16 12:15:23,973] {processor.py:163} INFO - Started process (PID=16069) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:15:23,975] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:15:23,976] {logging_mixin.py:109} INFO - [2021-11-16 12:15:23,975] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:15:24,009] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:15:24,299] {logging_mixin.py:109} INFO - [2021-11-16 12:15:24,299] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:15:24,311] {logging_mixin.py:109} INFO - [2021-11-16 12:15:24,311] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:15:24,402] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.432 seconds
+[2021-11-16 12:16:01,446] {processor.py:163} INFO - Started process (PID=16105) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:16:01,448] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:16:01,449] {logging_mixin.py:109} INFO - [2021-11-16 12:16:01,449] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:16:01,480] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:16:01,783] {logging_mixin.py:109} INFO - [2021-11-16 12:16:01,782] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:16:01,794] {logging_mixin.py:109} INFO - [2021-11-16 12:16:01,794] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:16:01,896] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.453 seconds
+[2021-11-16 12:16:40,320] {processor.py:163} INFO - Started process (PID=16150) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:16:40,331] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:16:40,332] {logging_mixin.py:109} INFO - [2021-11-16 12:16:40,332] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:16:40,360] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:16:40,640] {logging_mixin.py:109} INFO - [2021-11-16 12:16:40,640] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:16:40,652] {logging_mixin.py:109} INFO - [2021-11-16 12:16:40,651] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:16:40,758] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.441 seconds
+[2021-11-16 12:17:18,977] {processor.py:163} INFO - Started process (PID=16221) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:17:18,979] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:17:18,980] {logging_mixin.py:109} INFO - [2021-11-16 12:17:18,980] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:17:19,020] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:17:19,440] {logging_mixin.py:109} INFO - [2021-11-16 12:17:19,440] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:17:19,455] {logging_mixin.py:109} INFO - [2021-11-16 12:17:19,455] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:17:19,689] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.714 seconds
+[2021-11-16 12:18:03,302] {processor.py:163} INFO - Started process (PID=16306) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:18:03,313] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2021-11-16 12:18:03,314] {logging_mixin.py:109} INFO - [2021-11-16 12:18:03,314] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:18:03,342] {processor.py:637} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2021-11-16 12:18:03,667] {logging_mixin.py:109} INFO - [2021-11-16 12:18:03,667] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 12:18:03,679] {logging_mixin.py:109} INFO - [2021-11-16 12:18:03,679] {dag.py:2928} INFO - Setting next_dagrun for example_dag_decorator to None
+[2021-11-16 12:18:03,780] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.482 seconds

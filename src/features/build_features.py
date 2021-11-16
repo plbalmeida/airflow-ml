@@ -29,8 +29,6 @@ def get_lag_features(df, features_to_lag, number_of_lags):
 
 
 if __name__ == '__main__':
-
-    path = os.getcwd()
-    vendas = pd.read_csv(path + '/data/raw/vendas.csv')
+    vendas = pd.read_csv('/home/ana/Documentos/airflowML/data/raw/vendas.csv')
     vendas = get_lag_features(df=vendas, features_to_lag=['vendas'], number_of_lags=15)
-    vendas.to_csv(path + '/data/processed/vendas.csv', index=False)
+    vendas.to_csv('/home/ana/Documentos/airflowML/data/processed/vendas.csv', index=False)

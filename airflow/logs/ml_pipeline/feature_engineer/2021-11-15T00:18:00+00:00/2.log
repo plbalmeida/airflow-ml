@@ -1,0 +1,82 @@
+[2021-11-16 12:02:58,000] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: ml_pipeline.feature_engineer scheduled__2021-11-15T00:18:00+00:00 [queued]>
+[2021-11-16 12:02:58,010] {taskinstance.py:1035} INFO - Dependencies all met for <TaskInstance: ml_pipeline.feature_engineer scheduled__2021-11-15T00:18:00+00:00 [queued]>
+[2021-11-16 12:02:58,010] {taskinstance.py:1241} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-16 12:02:58,010] {taskinstance.py:1242} INFO - Starting attempt 2 of 2
+[2021-11-16 12:02:58,010] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2021-11-16 12:02:58,082] {taskinstance.py:1262} INFO - Executing <Task(BashOperator): feature_engineer> on 2021-11-15 00:18:00+00:00
+[2021-11-16 12:02:58,087] {standard_task_runner.py:52} INFO - Started process 14224 to run task
+[2021-11-16 12:02:58,091] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'ml_pipeline', 'feature_engineer', 'scheduled__2021-11-15T00:18:00+00:00', '--job-id', '45', '--raw', '--subdir', 'DAGS_FOLDER/ml_dag.py', '--cfg-path', '/tmp/tmprwl18gfs', '--error-file', '/tmp/tmpnt0clfpt']
+[2021-11-16 12:02:58,092] {standard_task_runner.py:77} INFO - Job 45: Subtask feature_engineer
+[2021-11-16 12:02:58,230] {logging_mixin.py:109} INFO - Running <TaskInstance: ml_pipeline.feature_engineer scheduled__2021-11-15T00:18:00+00:00 [running]> on host ana-X550CA
+[2021-11-16 12:02:58,345] {taskinstance.py:1427} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=plbalmeida
+AIRFLOW_CTX_DAG_ID=ml_pipeline
+AIRFLOW_CTX_TASK_ID=feature_engineer
+AIRFLOW_CTX_EXECUTION_DATE=2021-11-15T00:18:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2021-11-15T00:18:00+00:00
+[2021-11-16 12:02:58,346] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2021-11-16 12:02:58,346] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'python3 /home/ana/Documentos/airflowML/src/features/build_features.py']
+[2021-11-16 12:02:58,356] {subprocess.py:85} INFO - Output:
+[2021-11-16 12:02:58,793] {subprocess.py:89} INFO - Traceback (most recent call last):
+[2021-11-16 12:02:58,793] {subprocess.py:89} INFO -   File "/home/ana/Documentos/airflowML/src/features/build_features.py", line 32, in <module>
+[2021-11-16 12:02:58,793] {subprocess.py:89} INFO -     vendas = pd.read_csv('/home/ana/Documentos/airflowML/data/raw/vendas.csv')
+[2021-11-16 12:02:58,793] {subprocess.py:89} INFO -   File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/pandas/util/_decorators.py", line 311, in wrapper
+[2021-11-16 12:02:58,794] {subprocess.py:89} INFO -     return func(*args, **kwargs)
+[2021-11-16 12:02:58,794] {subprocess.py:89} INFO -   File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 586, in read_csv
+[2021-11-16 12:02:58,794] {subprocess.py:89} INFO -     return _read(filepath_or_buffer, kwds)
+[2021-11-16 12:02:58,795] {subprocess.py:89} INFO -   File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 482, in _read
+[2021-11-16 12:02:58,795] {subprocess.py:89} INFO -     parser = TextFileReader(filepath_or_buffer, **kwds)
+[2021-11-16 12:02:58,795] {subprocess.py:89} INFO -   File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 811, in __init__
+[2021-11-16 12:02:58,795] {subprocess.py:89} INFO -     self._engine = self._make_engine(self.engine)
+[2021-11-16 12:02:58,796] {subprocess.py:89} INFO -   File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/pandas/io/parsers/readers.py", line 1040, in _make_engine
+[2021-11-16 12:02:58,796] {subprocess.py:89} INFO -     return mapping[engine](self.f, **self.options)  # type: ignore[call-arg]
+[2021-11-16 12:02:58,796] {subprocess.py:89} INFO -   File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/pandas/io/parsers/c_parser_wrapper.py", line 51, in __init__
+[2021-11-16 12:02:58,796] {subprocess.py:89} INFO -     self._open_handles(src, kwds)
+[2021-11-16 12:02:58,797] {subprocess.py:89} INFO -   File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/pandas/io/parsers/base_parser.py", line 222, in _open_handles
+[2021-11-16 12:02:58,797] {subprocess.py:89} INFO -     self.handles = get_handle(
+[2021-11-16 12:02:58,797] {subprocess.py:89} INFO -   File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/pandas/io/common.py", line 702, in get_handle
+[2021-11-16 12:02:58,798] {subprocess.py:89} INFO -     handle = open(
+[2021-11-16 12:02:58,798] {subprocess.py:89} INFO - FileNotFoundError: [Errno 2] No such file or directory: '/home/ana/Documentos/airflowML/data/raw/vendas.csv'
+[2021-11-16 12:02:58,860] {subprocess.py:93} INFO - Command exited with return code 1
+[2021-11-16 12:02:58,871] {taskinstance.py:1703} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1332, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1458, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1514, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/operators/bash.py", line 187, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2021-11-16 12:02:58,878] {taskinstance.py:1270} INFO - Marking task as FAILED. dag_id=ml_pipeline, task_id=feature_engineer, execution_date=20211115T001800, start_date=20211116T150258, end_date=20211116T150258
+[2021-11-16 12:02:58,957] {standard_task_runner.py:88} ERROR - Failed to execute job 45 for task feature_engineer
+Traceback (most recent call last):
+  File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/task/task_runner/standard_task_runner.py", line 85, in _start_by_fork
+    args.func(args, dag=self.dag)
+  File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/cli/cli_parser.py", line 48, in command
+    return func(*args, **kwargs)
+  File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/utils/cli.py", line 92, in wrapper
+    return f(*args, **kwargs)
+  File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 292, in task_run
+    _run_task_by_selected_method(args, dag, ti)
+  File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 107, in _run_task_by_selected_method
+    _run_raw_task(args, ti)
+  File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/cli/commands/task_command.py", line 180, in _run_raw_task
+    ti._run_raw_task(
+  File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/utils/session.py", line 70, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1332, in _run_raw_task
+    self._execute_task_with_callbacks(context)
+  File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1458, in _execute_task_with_callbacks
+    result = self._execute_task(context, self.task)
+  File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1514, in _execute_task
+    result = execute_callable(context=context)
+  File "/home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/operators/bash.py", line 187, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2021-11-16 12:02:58,986] {local_task_job.py:154} INFO - Task exited with return code 1
+[2021-11-16 12:02:59,111] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

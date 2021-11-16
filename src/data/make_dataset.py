@@ -60,15 +60,13 @@ def make_incremental_dataset(df, feature_name, incremental_periods, freq):
 
 if __name__ == '__main__':
 
-    path = os.getcwd() + '/data/raw/'
-
     # run once time
-    if len(os.listdir(os.getcwd() + '/data/raw')) == 0:
+    if len(os.listdir('/home/ana/Documentos/airflowML/data/raw')) == 0:
         vendas = make_initial_dataset(feature_name='vendas', start='1/1/2018', periods=365, freq='D')
-        vendas.to_csv(path + 'vendas.csv', index=False)
+        vendas.to_csv('/home/ana/Documentos/airflowML/data/vendas.csv', index=False)
 
     # run always
-    vendas = pd.read_csv(path + 'vendas.csv')
+    vendas = pd.read_csv('/home/ana/Documentos/airflowML/data/vendas.csv')
     vendas['timestamp'] = pd.to_datetime(vendas['timestamp'])
     vendas = make_incremental_dataset(df=vendas, feature_name='vendas', incremental_periods=5, freq='D')
-    vendas.to_csv(path + 'vendas.csv', index=False)
+    vendas.to_csv('/home/ana/Documentos/airflowML/data/vendas.csv', index=False)
