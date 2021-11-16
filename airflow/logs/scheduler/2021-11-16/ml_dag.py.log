@@ -1,0 +1,70 @@
+[2021-11-16 11:13:25,530] {processor.py:163} INFO - Started process (PID=9502) to work on /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:13:25,532] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py for tasks to queue
+[2021-11-16 11:13:25,533] {logging_mixin.py:109} INFO - [2021-11-16 11:13:25,533] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:13:25,565] {processor.py:637} INFO - DAG(s) dict_keys(['ml_pipeline']) retrieved from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:13:25,579] {logging_mixin.py:109} INFO - [2021-11-16 11:13:25,579] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:13:25,597] {logging_mixin.py:109} INFO - [2021-11-16 11:13:25,596] {dag.py:2928} INFO - Setting next_dagrun for ml_pipeline to 2021-11-15T00:00:00+00:00
+[2021-11-16 11:13:25,714] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py took 0.188 seconds
+[2021-11-16 11:13:56,430] {processor.py:163} INFO - Started process (PID=9575) to work on /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:13:56,432] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py for tasks to queue
+[2021-11-16 11:13:56,432] {logging_mixin.py:109} INFO - [2021-11-16 11:13:56,432] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:13:56,458] {processor.py:637} INFO - DAG(s) dict_keys(['ml_pipeline']) retrieved from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:13:56,760] {logging_mixin.py:109} INFO - [2021-11-16 11:13:56,760] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:13:56,774] {logging_mixin.py:109} INFO - [2021-11-16 11:13:56,773] {dag.py:2928} INFO - Setting next_dagrun for ml_pipeline to 2021-11-15T00:00:00+00:00
+[2021-11-16 11:13:56,878] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py took 0.451 seconds
+[2021-11-16 11:14:38,340] {processor.py:163} INFO - Started process (PID=9683) to work on /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:14:38,352] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py for tasks to queue
+[2021-11-16 11:14:38,353] {logging_mixin.py:109} INFO - [2021-11-16 11:14:38,353] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:14:38,374] {processor.py:637} INFO - DAG(s) dict_keys(['ml_pipeline']) retrieved from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:14:38,618] {logging_mixin.py:109} INFO - [2021-11-16 11:14:38,618] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:14:38,630] {logging_mixin.py:109} INFO - [2021-11-16 11:14:38,630] {dag.py:2928} INFO - Setting next_dagrun for ml_pipeline to 2021-11-15T00:00:00+00:00
+[2021-11-16 11:14:38,758] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py took 0.421 seconds
+[2021-11-16 11:15:21,626] {processor.py:163} INFO - Started process (PID=9755) to work on /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:15:21,659] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py for tasks to queue
+[2021-11-16 11:15:21,660] {logging_mixin.py:109} INFO - [2021-11-16 11:15:21,660] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:15:21,689] {processor.py:637} INFO - DAG(s) dict_keys(['ml_pipeline']) retrieved from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:15:21,930] {logging_mixin.py:109} INFO - [2021-11-16 11:15:21,929] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:15:21,941] {logging_mixin.py:109} INFO - [2021-11-16 11:15:21,941] {dag.py:2928} INFO - Setting next_dagrun for ml_pipeline to 2021-11-15T00:00:00+00:00
+[2021-11-16 11:15:22,043] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py took 0.423 seconds
+[2021-11-16 11:16:08,803] {processor.py:163} INFO - Started process (PID=9819) to work on /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:16:08,816] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py for tasks to queue
+[2021-11-16 11:16:08,817] {logging_mixin.py:109} INFO - [2021-11-16 11:16:08,817] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:16:08,836] {processor.py:637} INFO - DAG(s) dict_keys(['ml_pipeline']) retrieved from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:16:08,846] {logging_mixin.py:109} INFO - [2021-11-16 11:16:08,846] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:16:08,859] {logging_mixin.py:109} INFO - [2021-11-16 11:16:08,859] {dag.py:2928} INFO - Setting next_dagrun for ml_pipeline to None
+[2021-11-16 11:16:08,948] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py took 0.147 seconds
+[2021-11-16 11:16:50,452] {processor.py:163} INFO - Started process (PID=9860) to work on /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:16:50,453] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py for tasks to queue
+[2021-11-16 11:16:50,454] {logging_mixin.py:109} INFO - [2021-11-16 11:16:50,454] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:16:50,475] {processor.py:637} INFO - DAG(s) dict_keys(['ml_pipeline']) retrieved from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:16:50,484] {logging_mixin.py:109} INFO - [2021-11-16 11:16:50,484] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:16:50,496] {logging_mixin.py:109} INFO - [2021-11-16 11:16:50,496] {dag.py:2928} INFO - Setting next_dagrun for ml_pipeline to None
+[2021-11-16 11:16:50,607] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py took 0.159 seconds
+[2021-11-16 11:17:26,522] {processor.py:163} INFO - Started process (PID=9898) to work on /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:17:26,524] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py for tasks to queue
+[2021-11-16 11:17:26,524] {logging_mixin.py:109} INFO - [2021-11-16 11:17:26,524] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:17:26,548] {processor.py:637} INFO - DAG(s) dict_keys(['ml_pipeline']) retrieved from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:17:26,559] {logging_mixin.py:109} INFO - [2021-11-16 11:17:26,559] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:17:26,573] {logging_mixin.py:109} INFO - [2021-11-16 11:17:26,573] {dag.py:2928} INFO - Setting next_dagrun for ml_pipeline to None
+[2021-11-16 11:17:26,661] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py took 0.141 seconds
+[2021-11-16 11:18:07,780] {processor.py:163} INFO - Started process (PID=9984) to work on /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:18:07,801] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py for tasks to queue
+[2021-11-16 11:18:07,801] {logging_mixin.py:109} INFO - [2021-11-16 11:18:07,801] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:18:07,821] {processor.py:637} INFO - DAG(s) dict_keys(['ml_pipeline']) retrieved from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:18:07,832] {logging_mixin.py:109} INFO - [2021-11-16 11:18:07,832] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:18:07,846] {logging_mixin.py:109} INFO - [2021-11-16 11:18:07,846] {dag.py:2928} INFO - Setting next_dagrun for ml_pipeline to None
+[2021-11-16 11:18:07,955] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py took 0.179 seconds
+[2021-11-16 11:18:46,528] {processor.py:163} INFO - Started process (PID=10031) to work on /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:18:46,543] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py for tasks to queue
+[2021-11-16 11:18:46,543] {logging_mixin.py:109} INFO - [2021-11-16 11:18:46,543] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:18:46,563] {processor.py:637} INFO - DAG(s) dict_keys(['ml_pipeline']) retrieved from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:18:46,573] {logging_mixin.py:109} INFO - [2021-11-16 11:18:46,573] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:18:46,587] {logging_mixin.py:109} INFO - [2021-11-16 11:18:46,587] {dag.py:2928} INFO - Setting next_dagrun for ml_pipeline to None
+[2021-11-16 11:18:46,667] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py took 0.142 seconds
+[2021-11-16 11:19:26,455] {processor.py:163} INFO - Started process (PID=10095) to work on /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:19:26,457] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py for tasks to queue
+[2021-11-16 11:19:26,458] {logging_mixin.py:109} INFO - [2021-11-16 11:19:26,458] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:19:26,479] {processor.py:637} INFO - DAG(s) dict_keys(['ml_pipeline']) retrieved from /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py
+[2021-11-16 11:19:26,489] {logging_mixin.py:109} INFO - [2021-11-16 11:19:26,489] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:19:26,507] {logging_mixin.py:109} INFO - [2021-11-16 11:19:26,506] {dag.py:2928} INFO - Setting next_dagrun for ml_pipeline to None
+[2021-11-16 11:19:26,584] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/airflow/dags/ml_dag.py took 0.133 seconds

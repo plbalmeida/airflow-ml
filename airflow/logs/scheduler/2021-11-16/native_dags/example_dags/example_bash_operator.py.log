@@ -1,0 +1,49 @@
+[2021-11-16 11:13:24,283] {processor.py:163} INFO - Started process (PID=9501) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:13:24,284] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-16 11:13:24,285] {logging_mixin.py:109} INFO - [2021-11-16 11:13:24,285] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:13:24,310] {processor.py:637} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:13:24,323] {logging_mixin.py:109} INFO - [2021-11-16 11:13:24,323] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:13:24,339] {logging_mixin.py:109} INFO - [2021-11-16 11:13:24,339] {dag.py:2928} INFO - Setting next_dagrun for example_bash_operator to 2021-11-15 00:00:00+00:00
+[2021-11-16 11:13:24,452] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.171 seconds
+[2021-11-16 11:14:09,858] {processor.py:163} INFO - Started process (PID=9609) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:14:09,860] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-16 11:14:09,861] {logging_mixin.py:109} INFO - [2021-11-16 11:14:09,861] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:14:09,887] {processor.py:637} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:14:09,897] {logging_mixin.py:109} INFO - [2021-11-16 11:14:09,897] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:14:09,912] {logging_mixin.py:109} INFO - [2021-11-16 11:14:09,912] {dag.py:2928} INFO - Setting next_dagrun for example_bash_operator to 2021-11-15 00:00:00+00:00
+[2021-11-16 11:14:10,030] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.174 seconds
+[2021-11-16 11:15:04,844] {processor.py:163} INFO - Started process (PID=9738) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:15:04,846] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-16 11:15:04,848] {logging_mixin.py:109} INFO - [2021-11-16 11:15:04,847] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:15:04,879] {processor.py:637} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:15:04,894] {logging_mixin.py:109} INFO - [2021-11-16 11:15:04,894] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:15:04,916] {logging_mixin.py:109} INFO - [2021-11-16 11:15:04,916] {dag.py:2928} INFO - Setting next_dagrun for example_bash_operator to 2021-11-15 00:00:00+00:00
+[2021-11-16 11:15:05,005] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.164 seconds
+[2021-11-16 11:16:08,163] {processor.py:163} INFO - Started process (PID=9818) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:16:08,183] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-16 11:16:08,185] {logging_mixin.py:109} INFO - [2021-11-16 11:16:08,184] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:16:08,210] {processor.py:637} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:16:08,222] {logging_mixin.py:109} INFO - [2021-11-16 11:16:08,222] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:16:08,239] {logging_mixin.py:109} INFO - [2021-11-16 11:16:08,239] {dag.py:2928} INFO - Setting next_dagrun for example_bash_operator to 2021-11-15 00:00:00+00:00
+[2021-11-16 11:16:08,328] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.167 seconds
+[2021-11-16 11:17:00,909] {processor.py:163} INFO - Started process (PID=9871) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:17:00,910] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-16 11:17:00,911] {logging_mixin.py:109} INFO - [2021-11-16 11:17:00,911] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:17:00,938] {processor.py:637} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:17:00,950] {logging_mixin.py:109} INFO - [2021-11-16 11:17:00,950] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:17:00,968] {logging_mixin.py:109} INFO - [2021-11-16 11:17:00,968] {dag.py:2928} INFO - Setting next_dagrun for example_bash_operator to 2021-11-15 00:00:00+00:00
+[2021-11-16 11:17:01,078] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.172 seconds
+[2021-11-16 11:17:51,814] {processor.py:163} INFO - Started process (PID=9948) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:17:51,828] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-16 11:17:51,829] {logging_mixin.py:109} INFO - [2021-11-16 11:17:51,829] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:17:51,855] {processor.py:637} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:17:51,866] {logging_mixin.py:109} INFO - [2021-11-16 11:17:51,866] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:17:51,884] {logging_mixin.py:109} INFO - [2021-11-16 11:17:51,883] {dag.py:2928} INFO - Setting next_dagrun for example_bash_operator to 2021-11-15 00:00:00+00:00
+[2021-11-16 11:17:51,969] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.158 seconds
+[2021-11-16 11:18:45,273] {processor.py:163} INFO - Started process (PID=10030) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:18:45,275] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2021-11-16 11:18:45,276] {logging_mixin.py:109} INFO - [2021-11-16 11:18:45,275] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:18:45,300] {processor.py:637} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2021-11-16 11:18:45,312] {logging_mixin.py:109} INFO - [2021-11-16 11:18:45,312] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:18:45,328] {logging_mixin.py:109} INFO - [2021-11-16 11:18:45,328] {dag.py:2928} INFO - Setting next_dagrun for example_bash_operator to 2021-11-15 00:00:00+00:00
+[2021-11-16 11:18:45,416] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.145 seconds

@@ -1,0 +1,56 @@
+[2021-11-16 11:13:22,918] {processor.py:163} INFO - Started process (PID=9494) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:13:22,920] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-16 11:13:22,921] {logging_mixin.py:109} INFO - [2021-11-16 11:13:22,921] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:13:22,962] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:13:22,979] {logging_mixin.py:109} INFO - [2021-11-16 11:13:22,978] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:13:23,001] {logging_mixin.py:109} INFO - [2021-11-16 11:13:23,000] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-15 00:00:00+00:00
+[2021-11-16 11:13:23,134] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.220 seconds
+[2021-11-16 11:14:08,396] {processor.py:163} INFO - Started process (PID=9607) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:14:08,398] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-16 11:14:08,399] {logging_mixin.py:109} INFO - [2021-11-16 11:14:08,398] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:14:08,429] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:14:08,444] {logging_mixin.py:109} INFO - [2021-11-16 11:14:08,444] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:14:08,460] {logging_mixin.py:109} INFO - [2021-11-16 11:14:08,460] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-15 00:00:00+00:00
+[2021-11-16 11:14:08,656] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.263 seconds
+[2021-11-16 11:15:03,598] {processor.py:163} INFO - Started process (PID=9737) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:15:03,600] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-16 11:15:03,601] {logging_mixin.py:109} INFO - [2021-11-16 11:15:03,600] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:15:03,636] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:15:03,648] {logging_mixin.py:109} INFO - [2021-11-16 11:15:03,648] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:15:03,663] {logging_mixin.py:109} INFO - [2021-11-16 11:15:03,663] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-15 00:00:00+00:00
+[2021-11-16 11:15:03,790] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.194 seconds
+[2021-11-16 11:16:03,795] {processor.py:163} INFO - Started process (PID=9808) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:16:03,810] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-16 11:16:03,811] {logging_mixin.py:109} INFO - [2021-11-16 11:16:03,811] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:16:03,857] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:16:03,874] {logging_mixin.py:109} INFO - [2021-11-16 11:16:03,874] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:16:03,895] {logging_mixin.py:109} INFO - [2021-11-16 11:16:03,895] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-15 00:00:00+00:00
+[2021-11-16 11:16:03,998] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.207 seconds
+[2021-11-16 11:16:49,188] {processor.py:163} INFO - Started process (PID=9857) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:16:49,190] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-16 11:16:49,191] {logging_mixin.py:109} INFO - [2021-11-16 11:16:49,191] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:16:49,217] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:16:49,229] {logging_mixin.py:109} INFO - [2021-11-16 11:16:49,229] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:16:49,247] {logging_mixin.py:109} INFO - [2021-11-16 11:16:49,247] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-15 00:00:00+00:00
+[2021-11-16 11:16:49,353] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.169 seconds
+[2021-11-16 11:17:39,009] {processor.py:163} INFO - Started process (PID=9928) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:17:39,030] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-16 11:17:39,031] {logging_mixin.py:109} INFO - [2021-11-16 11:17:39,031] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:17:39,060] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:17:39,071] {logging_mixin.py:109} INFO - [2021-11-16 11:17:39,071] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:17:39,086] {logging_mixin.py:109} INFO - [2021-11-16 11:17:39,086] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-15 00:00:00+00:00
+[2021-11-16 11:17:39,193] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.188 seconds
+[2021-11-16 11:18:33,167] {processor.py:163} INFO - Started process (PID=10015) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:18:33,186] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-16 11:18:33,187] {logging_mixin.py:109} INFO - [2021-11-16 11:18:33,187] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:18:33,211] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:18:33,228] {logging_mixin.py:109} INFO - [2021-11-16 11:18:33,227] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:18:33,249] {logging_mixin.py:109} INFO - [2021-11-16 11:18:33,249] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-15 00:00:00+00:00
+[2021-11-16 11:18:33,376] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.212 seconds
+[2021-11-16 11:19:26,089] {processor.py:163} INFO - Started process (PID=10094) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:19:26,090] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2021-11-16 11:19:26,091] {logging_mixin.py:109} INFO - [2021-11-16 11:19:26,091] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:19:26,115] {processor.py:637} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py
+[2021-11-16 11:19:26,126] {logging_mixin.py:109} INFO - [2021-11-16 11:19:26,126] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:19:26,142] {logging_mixin.py:109} INFO - [2021-11-16 11:19:26,142] {dag.py:2928} INFO - Setting next_dagrun for example_branch_operator to 2021-11-15 00:00:00+00:00
+[2021-11-16 11:19:26,219] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_branch_operator.py took 0.133 seconds

@@ -27,33 +27,29 @@ with DAG(
     
     get_data = BashOperator(
         task_id='get_data',
-        #bash_command='python {}/src/data/make_dataset.py'.format(path),
-        bash_command='python3 /home/ana/Documentos/airflowtest/src/data/make_dataset.py',
-        retries=3,
+        bash_command='python {}/src/data/make_dataset.py'.format(path),
+        retries=1,
         dag=dag
         )
 
     feature_engineer = BashOperator(
         task_id='feature_engineer',
-        #bash_command='python {}/src/features/build_features.py'.format(path),
-        bash_command='python3 /home/ana/Documentos/airflowtest/src/features/build_features.py',
-        retries=3,
+        bash_command='python {}/src/features/build_features.py'.format(path),
+        retries=1,
         dag=dag
         )
 
     train_model = BashOperator(
         task_id='train_model',
-        #bash_command='python {}/src/models/train.py'.format(path),
-        bash_command='python3 /home/ana/Documentos/airflowtest/src/models/train.py',
-        retries=3,
+        bash_command='python {}/src/models/train.py'.format(path),
+        retries=1,
         dag=dag
         )
 
     prediction = BashOperator(
         task_id='prediction',
-        #bash_command='python {}/src/models/prediction.py'.format(path),
-        bash_command='python3 /home/ana/Documentos/airflowtest/src/models/prediction.py',
-        retries=3,
+        bash_command='python {}/src/models/prediction.py'.format(path),
+        retries=1,
         dag=dag
         )
 

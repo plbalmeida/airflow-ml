@@ -1,0 +1,49 @@
+[2021-11-16 11:13:20,216] {processor.py:163} INFO - Started process (PID=9483) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:13:20,218] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-16 11:13:20,219] {logging_mixin.py:109} INFO - [2021-11-16 11:13:20,219] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:13:20,256] {processor.py:637} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:13:20,275] {logging_mixin.py:109} INFO - [2021-11-16 11:13:20,275] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:13:20,290] {logging_mixin.py:109} INFO - [2021-11-16 11:13:20,290] {dag.py:2928} INFO - Setting next_dagrun for example_complex to None
+[2021-11-16 11:13:20,412] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.200 seconds
+[2021-11-16 11:14:05,787] {processor.py:163} INFO - Started process (PID=9599) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:14:05,789] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-16 11:14:05,790] {logging_mixin.py:109} INFO - [2021-11-16 11:14:05,790] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:14:05,825] {processor.py:637} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:14:05,841] {logging_mixin.py:109} INFO - [2021-11-16 11:14:05,841] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:14:05,854] {logging_mixin.py:109} INFO - [2021-11-16 11:14:05,854] {dag.py:2928} INFO - Setting next_dagrun for example_complex to None
+[2021-11-16 11:14:05,945] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.162 seconds
+[2021-11-16 11:14:49,116] {processor.py:163} INFO - Started process (PID=9713) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:14:49,128] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-16 11:14:49,129] {logging_mixin.py:109} INFO - [2021-11-16 11:14:49,129] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:14:49,167] {processor.py:637} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:14:49,186] {logging_mixin.py:109} INFO - [2021-11-16 11:14:49,185] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:14:49,202] {logging_mixin.py:109} INFO - [2021-11-16 11:14:49,202] {dag.py:2928} INFO - Setting next_dagrun for example_complex to None
+[2021-11-16 11:14:49,318] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.206 seconds
+[2021-11-16 11:15:34,897] {processor.py:163} INFO - Started process (PID=9767) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:15:34,900] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-16 11:15:34,901] {logging_mixin.py:109} INFO - [2021-11-16 11:15:34,901] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:15:34,937] {processor.py:637} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:15:34,955] {logging_mixin.py:109} INFO - [2021-11-16 11:15:34,955] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:15:34,971] {logging_mixin.py:109} INFO - [2021-11-16 11:15:34,971] {dag.py:2928} INFO - Setting next_dagrun for example_complex to None
+[2021-11-16 11:15:35,061] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.168 seconds
+[2021-11-16 11:16:34,469] {processor.py:163} INFO - Started process (PID=9843) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:16:34,471] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-16 11:16:34,472] {logging_mixin.py:109} INFO - [2021-11-16 11:16:34,472] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:16:34,506] {processor.py:637} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:16:34,523] {logging_mixin.py:109} INFO - [2021-11-16 11:16:34,523] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:16:34,539] {logging_mixin.py:109} INFO - [2021-11-16 11:16:34,539] {dag.py:2928} INFO - Setting next_dagrun for example_complex to None
+[2021-11-16 11:16:34,620] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.153 seconds
+[2021-11-16 11:17:23,920] {processor.py:163} INFO - Started process (PID=9896) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:17:23,921] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-16 11:17:23,922] {logging_mixin.py:109} INFO - [2021-11-16 11:17:23,922] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:17:23,964] {processor.py:637} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:17:23,985] {logging_mixin.py:109} INFO - [2021-11-16 11:17:23,985] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:17:24,001] {logging_mixin.py:109} INFO - [2021-11-16 11:17:24,001] {dag.py:2928} INFO - Setting next_dagrun for example_complex to None
+[2021-11-16 11:17:24,094] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.178 seconds
+[2021-11-16 11:18:18,774] {processor.py:163} INFO - Started process (PID=9997) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:18:18,783] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2021-11-16 11:18:18,784] {logging_mixin.py:109} INFO - [2021-11-16 11:18:18,784] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:18:18,821] {processor.py:637} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2021-11-16 11:18:18,837] {logging_mixin.py:109} INFO - [2021-11-16 11:18:18,837] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:18:18,856] {logging_mixin.py:109} INFO - [2021-11-16 11:18:18,856] {dag.py:2928} INFO - Setting next_dagrun for example_complex to None
+[2021-11-16 11:18:18,949] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.177 seconds

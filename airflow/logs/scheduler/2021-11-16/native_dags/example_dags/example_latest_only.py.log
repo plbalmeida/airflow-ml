@@ -1,0 +1,63 @@
+[2021-11-16 11:13:12,921] {processor.py:163} INFO - Started process (PID=9467) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:13:12,922] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-11-16 11:13:12,923] {logging_mixin.py:109} INFO - [2021-11-16 11:13:12,923] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:13:12,947] {processor.py:637} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:13:12,959] {logging_mixin.py:109} INFO - [2021-11-16 11:13:12,959] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:13:12,977] {logging_mixin.py:109} INFO - [2021-11-16 11:13:12,977] {dag.py:2928} INFO - Setting next_dagrun for latest_only to 2021-11-16T10:13:12.977324+00:00
+[2021-11-16 11:13:13,060] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.143 seconds
+[2021-11-16 11:13:58,532] {processor.py:163} INFO - Started process (PID=9583) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:13:58,534] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-11-16 11:13:58,535] {logging_mixin.py:109} INFO - [2021-11-16 11:13:58,534] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:13:58,558] {processor.py:637} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:13:58,568] {logging_mixin.py:109} INFO - [2021-11-16 11:13:58,568] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:13:58,584] {logging_mixin.py:109} INFO - [2021-11-16 11:13:58,584] {dag.py:2928} INFO - Setting next_dagrun for latest_only to 2021-11-16T10:13:58.584215+00:00
+[2021-11-16 11:13:58,691] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.162 seconds
+[2021-11-16 11:14:42,380] {processor.py:163} INFO - Started process (PID=9692) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:14:42,398] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-11-16 11:14:42,400] {logging_mixin.py:109} INFO - [2021-11-16 11:14:42,400] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:14:42,427] {processor.py:637} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:14:42,442] {logging_mixin.py:109} INFO - [2021-11-16 11:14:42,442] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:14:42,462] {logging_mixin.py:109} INFO - [2021-11-16 11:14:42,462] {dag.py:2928} INFO - Setting next_dagrun for latest_only to 2021-11-16T10:14:42.461860+00:00
+[2021-11-16 11:14:42,558] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.182 seconds
+[2021-11-16 11:15:26,954] {processor.py:163} INFO - Started process (PID=9761) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:15:26,963] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-11-16 11:15:26,964] {logging_mixin.py:109} INFO - [2021-11-16 11:15:26,964] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:15:26,991] {processor.py:637} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:15:27,003] {logging_mixin.py:109} INFO - [2021-11-16 11:15:27,003] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:15:27,021] {logging_mixin.py:109} INFO - [2021-11-16 11:15:27,021] {dag.py:2928} INFO - Setting next_dagrun for latest_only to 2021-11-16T10:15:27.020913+00:00
+[2021-11-16 11:15:27,153] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.202 seconds
+[2021-11-16 11:16:27,729] {processor.py:163} INFO - Started process (PID=9837) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:16:27,731] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-11-16 11:16:27,731] {logging_mixin.py:109} INFO - [2021-11-16 11:16:27,731] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:16:27,751] {processor.py:637} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:16:27,762] {logging_mixin.py:109} INFO - [2021-11-16 11:16:27,761] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:16:27,775] {logging_mixin.py:109} INFO - [2021-11-16 11:16:27,775] {dag.py:2928} INFO - Setting next_dagrun for latest_only to 2021-11-16T10:16:27.775109+00:00
+[2021-11-16 11:16:27,887] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.161 seconds
+[2021-11-16 11:17:09,926] {processor.py:163} INFO - Started process (PID=9881) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:17:09,936] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-11-16 11:17:09,937] {logging_mixin.py:109} INFO - [2021-11-16 11:17:09,937] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:17:09,958] {processor.py:637} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:17:09,968] {logging_mixin.py:109} INFO - [2021-11-16 11:17:09,968] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:17:09,981] {logging_mixin.py:109} INFO - [2021-11-16 11:17:09,981] {dag.py:2928} INFO - Setting next_dagrun for latest_only to 2021-11-16T10:17:09.981335+00:00
+[2021-11-16 11:17:10,071] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.149 seconds
+[2021-11-16 11:18:01,130] {processor.py:163} INFO - Started process (PID=9959) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:18:01,148] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-11-16 11:18:01,149] {logging_mixin.py:109} INFO - [2021-11-16 11:18:01,149] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:18:01,197] {processor.py:637} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:18:01,215] {logging_mixin.py:109} INFO - [2021-11-16 11:18:01,215] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:18:01,239] {logging_mixin.py:109} INFO - [2021-11-16 11:18:01,239] {dag.py:2928} INFO - Setting next_dagrun for latest_only to 2021-11-16T10:18:01.238600+00:00
+[2021-11-16 11:18:01,370] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.244 seconds
+[2021-11-16 11:18:41,568] {processor.py:163} INFO - Started process (PID=10025) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:18:41,570] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-11-16 11:18:41,571] {logging_mixin.py:109} INFO - [2021-11-16 11:18:41,570] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:18:41,595] {processor.py:637} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:18:41,605] {logging_mixin.py:109} INFO - [2021-11-16 11:18:41,605] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:18:41,619] {logging_mixin.py:109} INFO - [2021-11-16 11:18:41,619] {dag.py:2928} INFO - Setting next_dagrun for latest_only to 2021-11-16T10:18:41.619029+00:00
+[2021-11-16 11:18:41,748] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.182 seconds
+[2021-11-16 11:19:24,842] {processor.py:163} INFO - Started process (PID=10093) to work on /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:19:24,844] {processor.py:625} INFO - Processing file /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2021-11-16 11:19:24,845] {logging_mixin.py:109} INFO - [2021-11-16 11:19:24,845] {dagbag.py:500} INFO - Filling up the DagBag from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:19:24,866] {processor.py:637} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2021-11-16 11:19:24,877] {logging_mixin.py:109} INFO - [2021-11-16 11:19:24,877] {dag.py:2396} INFO - Sync 1 DAGs
+[2021-11-16 11:19:24,891] {logging_mixin.py:109} INFO - [2021-11-16 11:19:24,891] {dag.py:2928} INFO - Setting next_dagrun for latest_only to 2021-11-16T10:19:24.891076+00:00
+[2021-11-16 11:19:24,961] {processor.py:171} INFO - Processing /home/ana/Documentos/airflowML/venv/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.124 seconds
