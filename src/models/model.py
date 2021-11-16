@@ -85,7 +85,7 @@ class XGBHyperoptTimeSeries(Trainer):
                     cv=TimeSeriesSplit(n_splits=3, test_size=horizon), 
                     scoring='neg_mean_squared_error', 
                     verbose=False, 
-                    n_jobs=1
+                    n_jobs=-1
                     ).mean())
 
                 return score
@@ -108,7 +108,7 @@ class XGBHyperoptTimeSeries(Trainer):
             return space_eval(parameters, best)
 
         best_xgb = xgb_hyperopt(X, y)
-        xgb = XGBRegressor(**best_xgb, seed=42, nthread=1)  
+        xgb = XGBRegressor(**best_xgb, seed=42, nthread=-1)  
         xgb.fit(X, y)
 
         with open(save_path, 'wb') as f:
